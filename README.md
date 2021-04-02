@@ -1,5 +1,7 @@
 # PCA-and-T-SNE
 # This data has been taken from Kaggle (MNIST dataset downloaded from Kaggle : https://www.kaggle.com/c/digit-recognizer/data)
+
+### Here I am trying to just see what is happening behind the scene and how both are diffrent from each other
  
 ### This is just an example of dimension reduction.
 ### Prerequisite (Linear Algebra, Probability and Stats, Optimization Techniques)
